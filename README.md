@@ -26,3 +26,8 @@ Ethnic-Heritage-Painting-Emotion-Dataset/
     │   ├── *.jpg
     └── negative/
         ├── *.jpg
+## Download
+
+The full image datasets are available in the **Releases** section of this repository.
+
+Current version: [Dataset v1.0](https://github.com/Yinghao-Zhang-x/Ethnic-Heritage-Painting-Emotion-Dataset/releases/tag/v1.0)
