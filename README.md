@@ -26,8 +26,9 @@ Ethnic-Heritage-Painting-Emotion-Dataset/
     │   ├── *.jpg
     └── negative/
         ├── *.jpg
-## Download
+```
 
+## Download
 
 The full image datasets are available in the **Releases** section of this repository.
 
