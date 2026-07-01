@@ -11,7 +11,7 @@ This repository contains two image datasets:
 1. **Dongba paintings dataset**
 2. **Ethnic Painting dataset**
 
-The released data include painting images and category information. No official train/validation/test split files are provided in this repository.
+The released data include painting images and category information. 
 
 ## Folder Structure
 
