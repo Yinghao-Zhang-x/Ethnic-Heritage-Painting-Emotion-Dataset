@@ -1,17 +1,17 @@
 # Ethnic Heritage Painting Emotion Dataset
 
-This repository provides the image datasets used in the paper **"Chain-of-Thought Rationale-Guided Emotion Recognition in Ethnic Heritage Paintings"**.
+This repository provides a representative subset of the image datasets used in the paper **"Chain-of-Thought Rationale-Guided Emotion Recognition in Ethnic Heritage Paintings"**.
 
-The dataset is released to support academic research on emotion recognition, visual interpretation, and digital analysis of ethnic heritage paintings.
+The released subset is provided to support academic research on emotion recognition, visual interpretation, and digital analysis of ethnic heritage paintings. It contains approximately 25% of the full datasets.
 
 ## Dataset Contents
 
-This repository contains two image datasets:
+The released subset contains two image datasets:
 
-1. **Dongba paintings dataset**
-2. **Ethnic Painting dataset**
+1. **Dongba paintings dataset**: 48 images, including 4 representative samples from each of the 12 emotion categories.
+2. **Ethnic Painting dataset**: 391 images, including 287 positive samples and 104 negative samples.
 
-The released data include painting images and category information. 
+A total of 439 representative painting images are publicly released, together with the corresponding category information.
 
 ## Folder Structure
 
@@ -19,17 +19,21 @@ The released data include painting images and category information.
 Ethnic-Heritage-Painting-Emotion-Dataset/
 │
 ├── Dongba paintings/
-│   ├── *.jpg
+│   └── *.jpg
 │
 └── Ethnic Painting/
     ├── positive/
-    │   ├── *.jpg
+    │   └── *.jpg
     └── negative/
-        ├── *.jpg
+        └── *.jpg
 ```
 
 ## Download
 
-The full image datasets are available in the **Releases** section of this repository.
+The representative subset is available in the Releases section of this repository.
 
-Current version: [Dataset v1.0](https://github.com/Yinghao-Zhang-x/Ethnic-Heritage-Painting-Emotion-Dataset/releases/tag/v1.0)
+Current version: Dataset v1.0 – 25% Representative Subset
+
+## Full Dataset Access
+
+The full datasets are not publicly released due to cultural heritage data management, copyright considerations, and potential commercial use of the image materials. They may be made available by the corresponding author upon reasonable request for academic and non-commercial research purposes.
