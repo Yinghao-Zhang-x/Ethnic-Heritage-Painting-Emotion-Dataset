@@ -30,9 +30,9 @@ Ethnic-Heritage-Painting-Emotion-Dataset/
 
 ## Download
 
-The representative subset is available in the Releases section of this repository.
+The representative subset is available in the **Releases** section of this repository.
 
-Current version: Dataset v1.0 – 25% Representative Subset
+Current version: [Dataset v1.0 – 25% Representative Subset](https://github.com/Yinghao-Zhang-x/Ethnic-Heritage-Painting-Emotion-Dataset/releases/tag/v1.0-subset)
 
 ## Full Dataset Access
 
